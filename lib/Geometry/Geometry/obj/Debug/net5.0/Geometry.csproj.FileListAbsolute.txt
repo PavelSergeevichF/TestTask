@@ -1,0 +1,12 @@
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\Geometry.deps.json
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\Geometry.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\ref\Geometry.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\Geometry.pdb
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.csproj.AssemblyReference.cache
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.AssemblyInfoInputs.cache
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.AssemblyInfo.cs
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.csproj.CoreCompileInputs.cache
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\ref\Geometry.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\Geometry.pdb

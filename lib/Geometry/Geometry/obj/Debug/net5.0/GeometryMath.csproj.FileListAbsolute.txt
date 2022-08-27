@@ -1,0 +1,11 @@
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\GeometryMath.deps.json
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\GeometryMath.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\ref\GeometryMath.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\bin\Debug\net5.0\GeometryMath.pdb
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\GeometryMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\GeometryMath.AssemblyInfoInputs.cache
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\GeometryMath.AssemblyInfo.cs
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\GeometryMath.csproj.CoreCompileInputs.cache
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\GeometryMath.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\ref\GeometryMath.dll
+D:\Архив\IT\TestWork\TestTask\lib\Geometry\Geometry\obj\Debug\net5.0\GeometryMath.pdb
